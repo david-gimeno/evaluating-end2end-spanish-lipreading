@@ -4,17 +4,16 @@
 
 <p> </p>
 
-|     Components        |  WER |                                             url                                         |  size (MB)  |
-|:----------------------|:----:|:---------------------------------------------------------------------------------------:|:-----------:|
-|   **LIP-RTVE-SI**     |
-| -                     | 19.1 |[GoogleDrive](http://bit.ly/40EAtyX) or [BaiduDrive](https://bit.ly/3ZjbrV5)(key: dqsy)  |     891     |
-|   **LIP-RTVE-SD**      |
-| -                     | 1.0  |[GoogleDrive](http://bit.ly/3ZSdh0l) or [BaiduDrive](http://bit.ly/3Z1TlGU)(key: dvf2)   |     860     |
-|   **VLRF**    |
-| -                     | 0.9  |[GoogleDrive](http://bit.ly/3yRSXAn) or [BaiduDrive](http://bit.ly/3LAxcMY)(key: sai5)   |     1540    |
-| **CMU-MOSEAS**   |
-| -                     |   -  |[GoogleDrive](http://bit.ly/3FE4XsV) or [BaiduDrive](http://bit.ly/3yRI5SY)(key: t9ep)   |     191     |
-| **Multilingual-TEDx**         |
-| -                     |   -  |[GoogleDrive](https://bit.ly/33rEsax) or [BaiduDrive](https://bit.ly/3rwQSph)(key: mi3c) |     18577   |
+|     Components        |     WER    |                 url                  |  size (MB)  |
+|:----------------------|:----------:|:------------------------------------:|:-----------:|
+|   **LIP-RTVE**        |
+|   speaker-independent | 59.5 ± 1.2 | [GoogleDrive](http://bit.ly/40EAtyX) |     891     |
+|   speaker-dependent   | 34.2 ± 1.2 | [GoogleDrive](http://bit.ly/40EAtyX) |     891     |
+|   -                   |            |                                      |             |
+|   **VLRF**            | 24.8 ± 3.4 | [GoogleDrive](http://bit.ly/40EAtyX) |             |
+| -                     |            |                                      |             |
+| **CMU-MOSEAS**        | 44.6 ± 0.6 | [GoogleDrive](http://bit.ly/3yRSXAn) |     1540    |
+| -                     |            |                                      |             |
+| **Multilingual-TEDx** | 56.3 ± 0.3 | [GoogleDrive](http://bit.ly/3yRSXAn) |     1540    |
 
 </details>
