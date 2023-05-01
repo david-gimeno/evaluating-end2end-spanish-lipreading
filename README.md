@@ -9,7 +9,7 @@ Thanks to the availability of large-scale audiovisual databases and the use of p
   
 |            Models          |     %WER    |               Download               |  size (MB)  |
 |:---------------------------|:-----------:|:------------------------------------:|:-----------:|
-|  **VLRF**                  |
+|  [**VLRF**](https://ieeexplore.ieee.org/abstract/document/7961743)                  |
 |  **speaker-dependent**     |  24.8 ± 3.4 | [GoogleDrive](http://bit.ly/40EAtyX) |     211     |
 |  Language Model            |      -      | [GoogleDrive](http://bit.ly/40EAtyX) |     203     |
 |  Landmarks                 |      -      | [GoogleDrive](http://bit.ly/40EAtyX) |     260     |
