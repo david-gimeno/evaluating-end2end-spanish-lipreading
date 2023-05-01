@@ -10,24 +10,24 @@ Thanks to the availability of large-scale audiovisual databases and the use of p
 |            Models          |     %WER    |               Download               |  size (MB)  |
 |:---------------------------|:-----------:|:------------------------------------:|:-----------:|
 |  [**VLRF**](https://ieeexplore.ieee.org/abstract/document/7961743)                  |
-|  **speaker-dependent**     |  24.8 ± 3.4 | [GoogleDrive](http://bit.ly/40EAtyX) |     211     |
-|  Language Model            |      -      | [GoogleDrive](http://bit.ly/40EAtyX) |     203     |
+|  **speaker-dependent**     |  24.8 ± 3.4 | [GoogleDrive](https://drive.google.com/file/d/18dQbL2Ul9g00AK7b0k1tK-AcNbd2-xs3/view?usp=share_link) |     211     |
+|  Language Model            |      -      | [GoogleDrive](https://drive.google.com/file/d/1DuSO8FZWSSPZLRCg8puqk2710-NtDls3/view?usp=share_link) |     193     |
 |  Landmarks                 |      -      | [GoogleDrive](http://bit.ly/40EAtyX) |     260     |
 |  -                         |             |                                      |             |
 |  [**LIP-RTVE**](https://aclanthology.org/2022.lrec-1.294/)              |            
-|  **speaker-independent**   |  59.5 ± 1.2 | [GoogleDrive](http://bit.ly/40EAtyX) |     211     |
-|  **speaker-dependent**     |  34.2 ± 1.2 | [GoogleDrive](http://bit.ly/40EAtyX) |     211     |
-|  Language Model            |      -      | [GoogleDrive](http://bit.ly/40EAtyX) |     203     |
+|  **speaker-independent**   |  59.5 ± 1.2 | [GoogleDrive](https://drive.google.com/file/d/1HUipOpIOWtsAvBB2mIFAxHbSVB7S5bk8/view?usp=share_link) |     211     |
+|  **speaker-dependent**     |  34.2 ± 1.2 | [GoogleDrive](https://drive.google.com/file/d/1Zq476xT2TVa-DDEDhLaLlYRsEFqRd8CK/view?usp=share_link) |     211     |
+|  Language Model            |      -      | [GoogleDrive](https://drive.google.com/file/d/1Ze7zOII8MbgUQqZ4U3gYOAnobp3aDJnT/view?usp=share_link) |     193     |
 |  Landmarks                 |      -      | [GoogleDrive](http://bit.ly/40EAtyX) |     562     |
 |  -                         |             |                                      |             |
   |  [**CMU-MOSEAS**](https://aclanthology.org/2020.emnlp-main.141/)<sup>**†**</sup>          |
-|  **speaker-independent**   |  44.6 ± 0.6 | [GoogleDrive](http://bit.ly/3yRSXAn) |     211     |
-|  Language Model<sup>**†**</sup>            |      -      | [GoogleDrive](http://bit.ly/40EAtyX) |     203     |
+|  **speaker-independent**   |  44.6 ± 0.6 | [GoogleDrive](https://drive.google.com/file/d/1f79zKcvaR9xRfRpSdLgCzLS7BTjC5tmf/view?usp=share_link) |     211     |
+|  Language Model<sup>**†**</sup>            |      -      | [GoogleDrive](https://drive.google.com/file/d/15RLM1qYQXRIkrKVPYPeNWoP2G78-geL2/view?usp=share_link) |     193     |
 |  Landmarks                 |      -      | [GoogleDrive](http://bit.ly/40EAtyX) |     3187    |
 |  -                         |             |                                      |             |
 |  [**Multilingual-TEDx**](https://www.isca-speech.org/archive/interspeech_2021/salesky21_interspeech.html)<sup>**†**</sup>     |
-|  **speaker-independent**   |  56.3 ± 0.3 | [GoogleDrive](http://bit.ly/3yRSXAn) |     211     |
-|  Language Model<sup>**†**</sup>            |      -      | [GoogleDrive](http://bit.ly/40EAtyX) |     203     |
+|  **speaker-independent**   |  56.3 ± 0.3 | [GoogleDrive](https://drive.google.com/file/d/1f79zKcvaR9xRfRpSdLgCzLS7BTjC5tmf/view?usp=share_link) |     211     |
+|  Language Model<sup>**†**</sup>            |      -      | [GoogleDrive](https://drive.google.com/file/d/15RLM1qYQXRIkrKVPYPeNWoP2G78-geL2/view?usp=share_link) |     193     |
 |  Landmarks                 |      -      | [GoogleDrive](http://bit.ly/40EAtyX) |     3143    |
 
 </details>
