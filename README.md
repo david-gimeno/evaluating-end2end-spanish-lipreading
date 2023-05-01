@@ -1,6 +1,8 @@
 <h1 align="center">Factors of Influence on <br/> End-to-End Continuous Spanish Lipreading</h1>
+<h2 align="center">[David Gimeno-Gómez](https://scholar.google.es/citations?user=DVRSla8AAAAJ&hl=en) & [Carlos-David Martínez-Hinarejos](http://personales.upv.es/carmarhi/)</h2>
 
-<p align="center">Thanks to the availability of large-scale audiovisual databases and the use of powerful attention-based mechanisms, unprecedented results have been achieved in Visual Speech Recognition. However, the use of these technologies in other languages than English is quite limited. In our paper, in addition to studying how the different components that form the architecture influence the quality of speech recognition, we presented a new Spanish Lipreading Benchmark. It covers diverse scenarios with different recording settings, speaker-dependent and speaker-independent experiments, as well as data-scarcity databases.</p>
+
+Thanks to the availability of large-scale audiovisual databases and the use of powerful attention-based mechanisms, unprecedented results have been achieved in Visual Speech Recognition. However, the use of these technologies in other languages than English is quite limited. In our paper, in addition to studying how the different components that form the architecture influence the quality of speech recognition, we presented a new Spanish Lipreading Benchmark. It covers diverse scenarios with different recording settings, speaker-dependent and speaker-independent experiments, as well as data-scarcity databases.
 
 <details open>
   <summary><b>Spanish Lipreading Benchmark</b></summary>
