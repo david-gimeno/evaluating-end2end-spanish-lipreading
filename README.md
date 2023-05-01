@@ -36,4 +36,8 @@ Thanks to the availability of large-scale audiovisual databases and the use of p
 
 [David Gimeno-Gómez](https://scholar.google.es/citations?user=DVRSla8AAAAJ&hl=en) \& [Carlos-David Martínez-Hinarejos](http://personales.upv.es/carmarhi/)
 
+## License
+
+It is noted that the code can only be used for comparative or benchmarking purposes. Users can only use code supplied for non-commercial purposes.
+
 ## Citation
