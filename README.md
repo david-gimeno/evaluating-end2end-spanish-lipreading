@@ -22,12 +22,12 @@ Thanks to the availability of large-scale audiovisual databases and the use of p
 |  -                         |             |                                      |             |
   |  [**CMU-MOSEAS**](https://aclanthology.org/2020.emnlp-main.141/)<sup>**†**</sup>          |
 |  **speaker-independent**   |  44.6 ± 0.6 | [GoogleDrive](http://bit.ly/3yRSXAn) |     211     |
-|  Language Model            |      -      | [GoogleDrive](http://bit.ly/40EAtyX) |     203     |
+|  Language Model<sup>**†**</sup>            |      -      | [GoogleDrive](http://bit.ly/40EAtyX) |     203     |
 |  Landmarks                 |      -      | [GoogleDrive](http://bit.ly/40EAtyX) |     3187    |
 |  -                         |             |                                      |             |
 |  [**Multilingual-TEDx**](https://www.isca-speech.org/archive/interspeech_2021/salesky21_interspeech.html)<sup>**†**</sup>     |
 |  **speaker-independent**   |  56.3 ± 0.3 | [GoogleDrive](http://bit.ly/3yRSXAn) |     211     |
-|  Language Model            |      -      | [GoogleDrive](http://bit.ly/40EAtyX) |     203     |
+|  Language Model<sup>**†**</sup>            |      -      | [GoogleDrive](http://bit.ly/40EAtyX) |     203     |
 |  Landmarks                 |      -      | [GoogleDrive](http://bit.ly/40EAtyX) |     3143    |
 
 </details>
