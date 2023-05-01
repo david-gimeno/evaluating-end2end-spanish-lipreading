@@ -1,9 +1,9 @@
 <h1 align="center">Factors of Influence on <br/> End-to-End Continuous Spanish Lipreading</h1>
 
-<summary>Spanish Lipreading Benchmark (LRS3)</summary>
+<details open>
+<summary>Spanish Lipreading Benchmark</summary>
 
 <p> </p>
-
 |            Models          |     WER    |               Download               |  size (MB)  |
 |:---------------------------|:----------:|:------------------------------------:|:-----------:|
 |  **LIP-RTVE**              |            
