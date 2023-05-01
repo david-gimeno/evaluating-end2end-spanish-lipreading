@@ -9,16 +9,16 @@ Thanks to the availability of large-scale audiovisual databases and the use of p
   
 |            Models          |     %WER    |               Download               |  size (MB)  |
 |:---------------------------|:-----------:|:------------------------------------:|:-----------:|
+|  **VLRF**                  |
+|  **speaker-dependent**     |  24.8 ± 3.4 | [GoogleDrive](http://bit.ly/40EAtyX) |     211     |
+|  Language Model            |      -      | [GoogleDrive](http://bit.ly/40EAtyX) |     203     |
+|  Landmarks                 |      -      | [GoogleDrive](http://bit.ly/40EAtyX) |     260     |
+|  -                         |             |                                      |             |
 |  **LIP-RTVE**              |            
 |  **speaker-independent**   |  59.5 ± 1.2 | [GoogleDrive](http://bit.ly/40EAtyX) |     211     |
 |  **speaker-dependent**     |  34.2 ± 1.2 | [GoogleDrive](http://bit.ly/40EAtyX) |     211     |
 |  Language Model            |      -      | [GoogleDrive](http://bit.ly/40EAtyX) |     203     |
 |  Landmarks                 |      -      | [GoogleDrive](http://bit.ly/40EAtyX) |     562     |
-|  -                         |             |                                      |             |
-|  **VLRF**                  |
-|  **speaker-dependent**     |  24.8 ± 3.4 | [GoogleDrive](http://bit.ly/40EAtyX) |     211     |
-|  Language Model            |      -      | [GoogleDrive](http://bit.ly/40EAtyX) |     203     |
-|  Landmarks                 |      -      | [GoogleDrive](http://bit.ly/40EAtyX) |     260     |
 |  -                         |             |                                      |             |
 |  **CMU-MOSEAS**            |
 |  **speaker-independent**   |  44.6 ± 0.6 | [GoogleDrive](http://bit.ly/3yRSXAn) |     211     |
