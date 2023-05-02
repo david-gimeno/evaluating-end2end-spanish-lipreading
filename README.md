@@ -41,6 +41,6 @@ Models publicly released by [Pingchuan Ma (2022)](https://github.com/mpc001/Visu
 
 ## License
 
-It is noted that the code can only be used for comparative or benchmarking purposes. Users can only use code supplied for non-commercial purposes.
+It is noted that the code can be used for research and/or benchmarking purposes. It is now allowed to use the code for commercial purposes. 
 
 ## Citation
