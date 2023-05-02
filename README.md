@@ -11,7 +11,7 @@ Thanks to the availability of large-scale audiovisual databases and the use of p
 |:---------------------------|:-----------:|:------------------------------------:|:-----------:|
 |  [**VLRF**](https://ieeexplore.ieee.org/abstract/document/7961743)                  |
 |  **speaker-dependent**     |  24.8 ± 3.4 | [GoogleDrive](https://drive.google.com/file/d/18dQbL2Ul9g00AK7b0k1tK-AcNbd2-xs3/view?usp=share_link) |     201     |
-|  Language Model<sup>**+**</sup>            |      -      | [GoogleDrive](https://drive.google.com/file/d/1DuSO8FZWSSPZLRCg8puqk2710-NtDls3/view?usp=share_link) |     193     |
+|  Language Model            |      -      | [GoogleDrive](https://drive.google.com/file/d/1DuSO8FZWSSPZLRCg8puqk2710-NtDls3/view?usp=share_link) |     193     |
 |  Landmarks                 |      -      | [GoogleDrive](http://bit.ly/40EAtyX) |     260     |
 |  -                         |             |                                      |             |
 |  [**LIP-RTVE**](https://aclanthology.org/2022.lrec-1.294/)              |            
@@ -31,7 +31,6 @@ Thanks to the availability of large-scale audiovisual databases and the use of p
 |  Landmarks                 |      -      | [GoogleDrive](http://bit.ly/40EAtyX) |     3143    |
 
 </details>
-
 <sup>**†**</sup> These models were published by [Ma et al. (2022)](https://github.com/mpc001/Visual_Speech_Recognition_for_Multiple_Languages) However, the structere of the indicated checkpoints have been modified so that they can be loaded using the scripts provided in this repository.
 
 Models publicly released by [Pingchuan Ma (2022)](https://github.com/mpc001/Visual_Speech_Recognition_for_Multiple_Languages) but modified thus the checkpoints can be loaded by the scripts provided in this repository.
