@@ -11,7 +11,7 @@ Thanks to the availability of large-scale audiovisual databases and the use of p
 |:---------------------------|:-----------:|:------------------------------------:|:-----------:|
 |  [**VLRF**](https://ieeexplore.ieee.org/abstract/document/7961743)                  |
 |  **speaker-dependent**     |  24.8 ± 3.4 | [GoogleDrive](https://drive.google.com/file/d/18dQbL2Ul9g00AK7b0k1tK-AcNbd2-xs3/view?usp=share_link) |     201     |
-|  Language Model            |      -      | [GoogleDrive](https://drive.google.com/file/d/1DuSO8FZWSSPZLRCg8puqk2710-NtDls3/view?usp=share_link) |     193     |
+|  Language Model<sup>*****</sup>            |      -      | [GoogleDrive](https://drive.google.com/file/d/1DuSO8FZWSSPZLRCg8puqk2710-NtDls3/view?usp=share_link) |     193     |
 |  Landmarks                 |      -      | [GoogleDrive](http://bit.ly/40EAtyX) |     260     |
 |  -                         |             |                                      |             |
 |  [**LIP-RTVE**](https://aclanthology.org/2022.lrec-1.294/)              |            
