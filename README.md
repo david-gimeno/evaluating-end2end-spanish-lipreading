@@ -31,7 +31,7 @@ Thanks to the availability of large-scale audiovisual databases and the use of p
 |  Landmarks                 |      -      | [GoogleDrive](https://drive.google.com/file/d/1cYXYE0uIq-Cma4wE5-gjZO1AJ2WYlcv8/view?usp=share_link) |     2930    |
 
 </details>
-<b><sup>†</sup></b> These models were published by <a href="https://github.com/mpc001/Visual_Speech_Recognition_for_Multiple_Languages">Ma et al. (2022)</a>. However, the structere of the indicated checkpoints have been modified so that they can be loaded using the scripts provided in this repository.
+<b><sup>†</sup></b> These models were published by <a href="https://github.com/mpc001/Visual_Speech_Recognition_for_Multiple_Languages">Ma et al. (2022)</a>. However, the structure of the indicated checkpoints have been modified so that they can be loaded using the scripts provided in this repository.
 
 ## Authors
 
