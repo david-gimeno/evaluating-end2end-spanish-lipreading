@@ -20,14 +20,14 @@ Thanks to the availability of large-scale audiovisual databases and the use of p
 |  Language Model            |      -      | [GoogleDrive](https://drive.google.com/file/d/1Ze7zOII8MbgUQqZ4U3gYOAnobp3aDJnT/view?usp=share_link) |     193     |
 |  Landmarks                 |      -      | [GoogleDrive](https://drive.google.com/file/d/1_gXDV3mC3GhSx9OSe2zjm0Xh-e2m7Fe3/view?usp=share_link) |     535     |
 |  -                         |             |                                      |             |
-  |  [**CMU-MOSEAS**](https://aclanthology.org/2020.emnlp-main.141/)<sup>**†**</sup>          |
+  |  [**CMU-MOSEAS**](https://aclanthology.org/2020.emnlp-main.141/) <sup>**†**</sup>          |
 |  **speaker-independent**   |  44.6 ± 0.6 | [GoogleDrive](https://drive.google.com/file/d/1f79zKcvaR9xRfRpSdLgCzLS7BTjC5tmf/view?usp=share_link) |     201     |
-|  Language Model<sup>**†**</sup>            |      -      | [GoogleDrive](https://drive.google.com/file/d/15RLM1qYQXRIkrKVPYPeNWoP2G78-geL2/view?usp=share_link) |     193     |
+|  Language Model <sup>**†**</sup>            |      -      | [GoogleDrive](https://drive.google.com/file/d/15RLM1qYQXRIkrKVPYPeNWoP2G78-geL2/view?usp=share_link) |     193     |
 |  Landmarks                 |      -      | [GoogleDrive](https://drive.google.com/file/d/1wBYCDYq8JCjBl4rFYJjW4eQiXsQkS3TK/view?usp=share_link) |     2970    |
 |  -                         |             |                                      |             |
-|  [**Multilingual-TEDx**](https://www.isca-speech.org/archive/interspeech_2021/salesky21_interspeech.html)<sup>**†**</sup>     |
+|  [**Multilingual-TEDx**](https://www.isca-speech.org/archive/interspeech_2021/salesky21_interspeech.html) <sup>**†**</sup>     |
 |  **speaker-independent**   |  56.3 ± 0.3 | [GoogleDrive](https://drive.google.com/file/d/1f79zKcvaR9xRfRpSdLgCzLS7BTjC5tmf/view?usp=share_link) |     201     |
-|  Language Model<sup>**†**</sup>            |      -      | [GoogleDrive](https://drive.google.com/file/d/15RLM1qYQXRIkrKVPYPeNWoP2G78-geL2/view?usp=share_link) |     193     |
+|  Language Model <sup>**†**</sup>            |      -      | [GoogleDrive](https://drive.google.com/file/d/15RLM1qYQXRIkrKVPYPeNWoP2G78-geL2/view?usp=share_link) |     193     |
 |  Landmarks                 |      -      | [GoogleDrive](https://drive.google.com/file/d/1cYXYE0uIq-Cma4wE5-gjZO1AJ2WYlcv8/view?usp=share_link) |     2930    |
 
 </details>
