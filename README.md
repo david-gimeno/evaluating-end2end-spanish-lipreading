@@ -1,7 +1,7 @@
 <h1 align="center">Factors of Influence on <br/> End-to-End Continuous Spanish Lipreading</h1>
 
 <div align="center">
-  <a href="https://scholar.google.es/citations?user=DVRSla8AAAAJ&hl=en">David Gimeno Gómez</a> & <a href="http://personales.upv.es/carmarhi/">Carlos-David Martínez-Hinarejos</a>
+  <b><a href="https://scholar.google.es/citations?user=DVRSla8AAAAJ&hl=en">David Gimeno Gómez</a> & <a href="http://personales.upv.es/carmarhi/">Carlos-David Martínez-Hinarejos</a></b>
 </div>
 
 <br/>
