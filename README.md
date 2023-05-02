@@ -44,3 +44,7 @@ Models publicly released by [Pingchuan Ma (2022)](https://github.com/mpc001/Visu
 It is noted that the code can be used for research and/or benchmarking purposes. It is now allowed to use the code for commercial purposes. 
 
 ## Citation
+
+## Acknowledgments
+
+This work was partially supported by Grant CIACIF/2021/295 funded by Generalitat Valenciana and by Grant PID2021-124719OB-I00 under project LLEER (PID2021-124719OB-100) funded by MCIN/AEI/10.13039/501100011033/ and by ERDF, EU A way of making Europe.
