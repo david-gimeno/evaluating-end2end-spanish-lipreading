@@ -12,7 +12,6 @@ Thanks to the availability of large-scale audiovisual databases and the use of p
 <details open>
   <summary><b>Spanish Lipreading Benchmark</b></summary>
   
-<div align="center">
 <p> </p>
   
 |            Models          |     %WER    |               Download               |  size (MB)  |
@@ -40,7 +39,7 @@ Thanks to the availability of large-scale audiovisual databases and the use of p
 
 </details>
 <b><sup>†</sup></b> These models were published by <a href="https://github.com/mpc001/Visual_Speech_Recognition_for_Multiple_Languages">Ma et al. (2022)</a>. However, the structure of the indicated checkpoints have been modified so that they can be loaded using the scripts provided in this repository.
-</div>
+
 ## License
 
 It is noted that the code can be used for research and/or benchmarking purposes. It is now allowed to use the code for commercial purposes. 
