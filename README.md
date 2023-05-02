@@ -45,6 +45,6 @@ It is noted that the code can be used for research and/or benchmarking purposes.
 
 ## Citation
 
-## Acknowledgments
+## Acknowledgements
 
 This work was partially supported by Grant CIACIF/2021/295 funded by Generalitat Valenciana and by Grant PID2021-124719OB-I00 under project LLEER (PID2021-124719OB-100) funded by MCIN/AEI/10.13039/501100011033/ and by ERDF, EU A way of making Europe.
