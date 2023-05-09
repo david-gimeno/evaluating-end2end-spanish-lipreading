@@ -40,11 +40,62 @@ Thanks to the availability of large-scale audiovisual databases and the use of p
 </details>
 <b><sup>†</sup></b> These models were published by <a href="https://github.com/mpc001/Visual_Speech_Recognition_for_Multiple_Languages">Ma et al. (2022)</a>. However, the structure of the indicated checkpoints have been modified so that they can be loaded using the scripts provided in this repository.
 
+## Preparation
+1. Clone the Github repository and enter it locally:
+
+```
+git clone https://github.com/david-gimeno/Factors_of_Influence_on_End-to-End_Continuous_Spanish_Lipreading.git
+cd Factors_of_Influence_on_End-to-End_Continuous_Spanish_Lipreading/
+```
+
+2. Create a Conda environment:
+
+```
+conda create -y -n vsr-factors python=3.8
+conda activate vsr-factors
+```
+
+3. Install required pip packages:
+
+```
+./prepare_env.sh
+```
+
+4. Download the database you are interested on.
+
+5. Considering the [src/MyDataset.py]() script as an example, implement your own Dataset object according to the way you structured your database of interest. It will also be useful to inspect the [src/utils.py]() script.
+
+## Benchmark Evaluation
+
+An usage example for the speaker-dependent partition of the LIP-RTVE database (using the LM fine-tuned to the task) would be to execute the following command:
+
+```
+python vsr_main.py --database LIP-RTVE --scenario speaker-dependent \
+                   --load-vsr ./models/VSR/liprtve-sd.pth \
+                   --load-lm ./models/LM/lm-liprtve.pth \
+                   --output-dir ./spanish-benchmark/liprtve-sd/lm-finetuned/
+```
+If you do not want to use any LM, just discard the ```--load-lm``` argument.
+
 ## License
 
 It is noted that the code can be used for research and/or benchmarking purposes. It is now allowed to use the code for commercial purposes. 
 
 ## Citation
+
+If you find our work interested or you use our VSR models, please cite our paper:
+
+```
+@InProceedings{liprtve2022lrec,
+  author = {Gimeno-Gómez, David  and  Martínez-Hinarejos, Carlos-D.},
+  title = {Factors of Influence of End-to-End Continuous Spanish Lipreading},
+  booktitle = {},
+  year = {},
+  publisher = {},
+  pages = {},
+  doi = {}
+}
+```
 
 ## Acknowledgements
 
