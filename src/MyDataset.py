@@ -23,7 +23,7 @@ class MyDataset(Dataset):
             if "train" in samples_csv:
                 samples.drop(samples[samples["sampleID"] == "speaker17003_22_01"])
 
-        self.samples = samples["sampleID"].tolist()[:4]
+        self.samples = samples["sampleID"].tolist()
 
     def __len__(self):
         return len(self.samples)
