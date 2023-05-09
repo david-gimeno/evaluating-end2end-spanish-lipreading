@@ -68,7 +68,8 @@ conda activate vsr-factors
 An usage example for the speaker-dependent partition of the LIP-RTVE database (using the LM fine-tuned to the task) would be to execute the following command:
 
 ```
-python vsr_main.py --database LIP-RTVE --scenario speaker-dependent \
+python vsr_main.py --database LIP-RTVE \
+                   --scenario speaker-dependent \
                    --load-vsr ./models/VSR/liprtve-sd.pth \
                    --load-lm ./models/LM/lm-liprtve.pth \
                    --output-dir ./spanish-benchmark/liprtve-sd/lm-finetuned/
