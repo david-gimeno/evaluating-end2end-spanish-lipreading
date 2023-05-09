@@ -1,0 +1,119 @@
+init:
+input_size:
+specaug:
+normalize:
+aux_ctc:
+
+# frontend related
+frontend: conv3dresnet18
+frontend_conf:
+  activation_type: "swish"
+# encoder related
+encoder: ma_conformer
+encoder_conf:
+  output_size: 256
+  attention_heads: 4
+  linear_units: 2048
+  num_blocks: 12
+  dropout_rate: 0.1
+  positional_dropout_rate: 0.1
+  attention_dropout_rate: 0.1
+  input_layer: "conv3dresnet18"
+  normalize_before: true
+  positionwise_layer_type: "linear"
+  macaron_style: true
+  rel_pos_type: "latest"
+  pos_enc_layer_type: "rel_pos"
+  selfattention_layer_type: "rel_selfattn"
+  activation_type: "relu"
+  cnn_module_kernel: 31
+  padding_idx: -1
+
+# decoder related
+decoder: transformer
+decoder_conf:
+  attention_heads: 4
+  linear_units: 2048
+  num_blocks: 6
+  dropout_rate: 0.1
+  positional_dropout_rate: 0.1
+  self_attention_dropout_rate: 0.1
+  src_attention_dropout_rate: 0.1
+
+# ctc
+ctc_conf:
+  dropout_rate: 0.1
+  ctc_type: "builtin"
+  reduce: true
+
+# model related
+model: espnet
+model_conf:
+  ctc_weight: 0.1
+  interctc_weight: 0.0
+  ignore_id: -1
+  lsm_weight: 0.1
+  length_normalized_loss: false
+  report_cer: false
+  report_wer: false
+  sym_space: "<space>"
+  sym_blank: "<blank>"
+  sym_sos: "<sos/eos>"
+  sym_eos: "<sos/eos>"
+  extract_feats_in_collect_stats: false
+  lang_token_id: -1
+
+# inference related
+inference_conf:
+  maxlenratio: 0.0
+  minlenratio: 0.0
+  batch_size: 1
+  beam_size: 30
+  ctc_weight: 0.1
+  lm_weight: 0.4
+  penalty: 0.0
+  nbest: 1
+
+# other details
+training_data: "train"
+token_type: char
+bpemodel:
+token_list: [
+  "<blank>",
+  "<unk>",
+  "<space>",
+  "a",
+  "b",
+  "c",
+  "d",
+  "e",
+  "f",
+  "g",
+  "h",
+  "i",
+  "j",
+  "k",
+  "l",
+  "m",
+  "n",
+  "o",
+  "p",
+  "q",
+  "r",
+  "s",
+  "t",
+  "u",
+  "v",
+  "w",
+  "x",
+  "y",
+  "z",
+  "á",
+  "é",
+  "í",
+  "ñ",
+  "ó",
+  "ú",
+  "ü",
+  "<sos/eos>",
+  ]
