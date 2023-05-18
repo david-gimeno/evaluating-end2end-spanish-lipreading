@@ -85,7 +85,7 @@ It is noted that the code can be used for research and/or benchmarking purposes.
 If you find our work interested or you use our VSR models, please cite our paper:
 
 ```
-@InProceedings{liprtve2022lrec,
+@InProceedings{factors2023lipreading,
   author = {Gimeno-Gómez, David  and  Martínez-Hinarejos, Carlos-D.},
   title = {Factors of Influence of End-to-End Continuous Spanish Lipreading},
   booktitle = {},
