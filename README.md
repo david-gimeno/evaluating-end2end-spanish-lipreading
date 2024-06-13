@@ -31,12 +31,12 @@ Thanks to the availability of large-scale audiovisual databases and the use of p
 |  Language Model <sup>**†**</sup>            |      -      | [lm-ma2022-spanish.pth](https://drive.google.com/file/d/15RLM1qYQXRIkrKVPYPeNWoP2G78-geL2/view?usp=share_link) |     193     |
 |  Landmarks                 |      -      | [landmarks-cmumoseas-spanish.zip](https://drive.google.com/file/d/1wBYCDYq8JCjBl4rFYJjW4eQiXsQkS3TK/view?usp=share_link) |     2970    |
 |  -                         |             |                                      |             |
-|  [**Multilingual-TEDx**](https://www.isca-speech.org/archive/interspeech_2021/salesky21_interspeech.html) <sup>**†**</sup>    |
+|  [**MuAViC**](https://www.isca-archive.org/interspeech_2023/anwar23_interspeech.html) <sup>**†**</sup>    |
 |  **speaker-independent**   |  56.3 ± 0.3 | [vsr-ma2022-spanish.pth](https://drive.google.com/file/d/1f79zKcvaR9xRfRpSdLgCzLS7BTjC5tmf/view?usp=share_link) |     201     |
 |  Language Model <sup>**†**</sup>            |      -      | [lm-ma2022-spanish.pth](https://drive.google.com/file/d/15RLM1qYQXRIkrKVPYPeNWoP2G78-geL2/view?usp=share_link) |     193     |
-|  Landmarks                 |      -      | [landmarks-mtedx-spanish.zip](https://drive.google.com/file/d/1cYXYE0uIq-Cma4wE5-gjZO1AJ2WYlcv8/view?usp=share_link) |     2930    |
+|  Landmarks                 |      -      | [Can be found in the original GitHub repository](https://github.com/facebookresearch/muavic) |     -    |
 
-<b><sup>†</sup></b> These models were published by <a href="https://github.com/mpc001/Visual_Speech_Recognition_for_Multiple_Languages">Ma et al. (2022)</a>. However, the structure of the indicated checkpoints have been modified so that they can be loaded using the scripts provided in this repository.
+<b><sup>†</sup></b> These models were published by <a href="https://github.com/mpc001/Visual_Speech_Recognition_for_Multiple_Languages">Ma et al. (2022)</a>. However, the structure of the indicated checkpoints has been modified so that they can be loaded using the scripts provided in this repository.
 
 ## Preparation
 1. Clone the Github repository and enter it locally:
