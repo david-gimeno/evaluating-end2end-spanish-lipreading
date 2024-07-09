@@ -19,7 +19,7 @@ class MyDataset(Dataset):
 
         elif self.database in ["VLRF"]:
             self.delimiter = 6
-            self.text_enc = "ISO-8859-1"
+            self.text_enc = "utf-8"
             if "train" in samples_csv:
                 samples.drop(samples[samples["sampleID"] == "speaker17003_22_01"])
 
