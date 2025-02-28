@@ -82,7 +82,7 @@ It is noted that the code can be used for research and/or benchmarking purposes.
 
 ## Citation
 
-If you find our work interested or you use our VSR models, please cite our paper:
+If you find our work interesting or you use our VSR models, please cite our paper:
 
 ```
 @article{gimeno2025evaluation,
