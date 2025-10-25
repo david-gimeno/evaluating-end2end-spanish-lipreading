@@ -10,31 +10,25 @@ Thanks to the availability of large-scale audiovisual databases and the use of p
 
 
 ## Spanish Lipreading Benchmark
+
+Pre-trained checkpoints for both VSR and LM models, as well as the extracted facial landmarks of all corpora except for MuAViC (check its original [repo](https://github.com/facebookresearch/muavic)), are available for downloading in [Zenodo](https://zenodo.org/records/17443293).
   
 <p> </p>
   
-|            Models          |     %WER    |               Download               |  size (MB)  |
-|:---------------------------|:-----------:|:------------------------------------:|:-----------:|
-|  [**VLRF**](https://ieeexplore.ieee.org/abstract/document/7961743)                  |
-|  **speaker-dependent**     |  24.8 ± 3.4 | [vsr-vlrf.pth](https://drive.google.com/file/d/18dQbL2Ul9g00AK7b0k1tK-AcNbd2-xs3/view?usp=share_link) |     201     |
-|  Language Model            |      -      | [lm-vlrf.pth](https://drive.google.com/file/d/1DuSO8FZWSSPZLRCg8puqk2710-NtDls3/view?usp=share_link) |     193     |
-|  Landmarks                 |      -      | [landmarks-vlrf.zip](https://drive.google.com/file/d/1oOoMmKYSNifEjbUU-5rtmgR-7vq4vtYL/view?usp=share_link) |     248     |
-|  -                         |             |                                      |             |
+|            Models          |     %WER    |
+|:---------------------------|:-----------:|
+|  [**VLRF**](https://ieeexplore.ieee.org/abstract/document/7961743/)                 |
+|  **speaker-dependent**     |  24.8 ± 3.4 |
+|  -                         |             |
 |  [**LIP-RTVE**](https://aclanthology.org/2022.lrec-1.294/)              |            
-|  **speaker-independent**   |  59.5 ± 1.2 | [vsr-liprtve-si.pth](https://drive.google.com/file/d/1HUipOpIOWtsAvBB2mIFAxHbSVB7S5bk8/view?usp=share_link) |     201     |
-|  **speaker-dependent**     |  34.2 ± 1.2 | [vsr-liprtve-sd.pth](https://drive.google.com/file/d/1Zq476xT2TVa-DDEDhLaLlYRsEFqRd8CK/view?usp=share_link) |     201     |
-|  Language Model            |      -      | [lm-liprtve.pth](https://drive.google.com/file/d/1Ze7zOII8MbgUQqZ4U3gYOAnobp3aDJnT/view?usp=share_link) |     193     |
-|  Landmarks                 |      -      | [landmarks-liprtve.zip](https://drive.google.com/file/d/1_gXDV3mC3GhSx9OSe2zjm0Xh-e2m7Fe3/view?usp=share_link) |     535     |
+|  **speaker-independent**   |  59.5 ± 1.2 |
+|  **speaker-dependent**     |  34.2 ± 1.2 |
 |  -                         |             |                                      |             |
   |  [**CMU-MOSEAS**](https://aclanthology.org/2020.emnlp-main.141/) <sup>**†**</sup>          |
-|  **speaker-independent**   |  44.6 ± 0.6 | [vsr-ma2022-spanish.pth](https://drive.google.com/file/d/1f79zKcvaR9xRfRpSdLgCzLS7BTjC5tmf/view?usp=share_link) |     201     |
-|  Language Model <sup>**†**</sup>            |      -      | [lm-ma2022-spanish.pth](https://drive.google.com/file/d/15RLM1qYQXRIkrKVPYPeNWoP2G78-geL2/view?usp=share_link) |     193     |
-|  Landmarks                 |      -      | [landmarks-cmumoseas-spanish.zip](https://drive.google.com/file/d/1wBYCDYq8JCjBl4rFYJjW4eQiXsQkS3TK/view?usp=share_link) |     2970    |
+|  **speaker-independent**   |  44.6 ± 0.6 |
 |  -                         |             |                                      |             |
 |  [**MuAViC**](https://www.isca-archive.org/interspeech_2023/anwar23_interspeech.html) <sup>**†**</sup>    |
-|  **speaker-independent**   |  56.3 ± 0.3 | [vsr-ma2022-spanish.pth](https://drive.google.com/file/d/1f79zKcvaR9xRfRpSdLgCzLS7BTjC5tmf/view?usp=share_link) |     201     |
-|  Language Model <sup>**†**</sup>            |      -      | [lm-ma2022-spanish.pth](https://drive.google.com/file/d/15RLM1qYQXRIkrKVPYPeNWoP2G78-geL2/view?usp=share_link) |     193     |
-|  Landmarks                 |      -      | [Can be found in the original GitHub repository](https://github.com/facebookresearch/muavic) |     -    |
+|  **speaker-independent**   |  56.3 ± 0.3 |
 
 <b><sup>†</sup></b> These models were published by <a href="https://github.com/mpc001/Visual_Speech_Recognition_for_Multiple_Languages">Ma et al. (2022)</a>. However, the structure of the indicated checkpoints has been modified so that they can be loaded using the scripts provided in this repository.
 
